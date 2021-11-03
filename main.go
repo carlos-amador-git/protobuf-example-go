@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/carlos-amador-git/protobuf-example-go/src/simple/simple"
+	"protobuf-example-go/src/simple/simple"
 )
 
 func main() {
